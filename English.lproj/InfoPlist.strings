@@ -1,0 +1,9 @@
+/* 
+   InfoPlist.strings
+   FamilyTree
+
+   Created by Kyungil Kim on 1/2/10.
+   Copyright 2010 __MyCompanyName__. All rights reserved.
+ */
+
+"CFBundleDisplayName" = "Family Tree";

@@ -1,0 +1,12 @@
+/* 
+   Localizable.strings
+   FamilyTree
+
+   Created by Kyungil Kim on 1/3/10.
+   Copyright 2010 __MyCompanyName__. All rights reserved.
+ */
+ 
+"Settings" = "Settings";
+ 
+"1000000000" = "Me";
+"2000000000" = "Me"; 

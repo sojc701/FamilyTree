@@ -1,0 +1,85 @@
+/* 
+   Localizable.strings
+   FamilyTree
+
+   Created by Kyungil Kim on 1/3/10.
+   Copyright 2010 __MyCompanyName__. All rights reserved.
+ */
+
+"Settings" = "설정";
+
+/*
+ y - me - male
+ x - me - female
+
+ + - older
+ - - younger
+
+ f - father, F - stepfather => f, F, m, M, b, B, s, S
+ m - mother, M - stepmother
+ 
+ b - brother, B - stepbrother => n, N, d, D
+ s - sister, S - stepsister
+ n - son, N - stepson
+ d - daughter, D - stepdaughter
+ 
+ p - spouse
+ */
+
+
+"y" = "본인";
+"x" = "본인";
+
+"f" = "아버지";
+"ff" = "친할아버지";
+"F" = "의붓아버지";
+"m" = "어머니";
+"M" = "의붓어머니";
+
+"b+y" = "형";
+"bp+y" = "형수";
+"B+y" = "이복형";
+"Bp+y" = "이복형수";
+
+"b-y" = "남동생";
+"bp-y" = "제수씨";
+"B-y" = "이복남동생";
+"Bp-y" = "이복제수씨";
+
+"b+x" = "오빠";
+"bp+x" = "올케언니";
+"B+x" = "이복오빠";
+"Bp+x" = "이복올케언니";
+
+"b-x" = "남동생";
+"bp-x" = "올케";
+"B-x" = "이복남동생";
+"Bp-x" = "이복올케";
+
+"s+y" = "누나";
+"sp+y" = "자형";
+"S+y" = "이복누나";
+"Sp+y" = "이복자형";
+
+"s-y" = "여동생";
+"sp-y" = "매제";
+"S-y" = "이복여동생";
+"Sp-y" = "이복매제";
+
+"s+x" = "언니";
+"sp+x" = "형부";
+"S+x" = "이복언니";
+"Sp+x" = "이복형부";
+
+"s-x" = "여동생";
+"sp-x" = "제부";
+"S-x" = "이복여동생";
+"Sp-x" = "이복제부";
+
+"n" = "아들";
+"N" = "의붓아들";
+"d" = "딸";
+"D" = "의붓딸";
+
+"py" = "아내";
+"px"= "남편";
